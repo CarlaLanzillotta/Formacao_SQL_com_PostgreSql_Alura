@@ -1,7 +1,10 @@
 # Formacao_SQL_com_PostgreSql_Alura 
+
+
+## Curso 1 - PostgreSQL
 Curso concluído em 31/05/2022
 
-## Conteúdo Curso 1 - PostgreSQL:
+Conteúdo:
 
 - Operações CRUD;
 - Consultas com filtros;
