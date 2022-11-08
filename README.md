@@ -1,4 +1,5 @@
-# Formacao_SQL_com_PostgreSql_Alura
+# Formacao_SQL_com_PostgreSql_Alura 
+Curso concluído em 31/05/2022
 
 ## Conteúdo Curso 1 - PostgreSQL:
 
